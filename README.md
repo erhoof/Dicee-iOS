@@ -1,31 +1,13 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Dicee 🎲🎲 for iOS
+Dicee app with some 🎲🎲
 
-# Dicee
+Build with Swift / Storyboard as a part of swift learning course 
+using AppBrewery resources (images)
 
-## Our Goal
+## Screenshots:   
+<img src="https://user-images.githubusercontent.com/23642847/113556025-81675300-9604-11eb-9a52-ebd2284a1b05.png" width="200">
+<img src="https://user-images.githubusercontent.com/23642847/113556056-8d531500-9604-11eb-886b-fc4c13426ada.png" width="200">
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
-
-## What you will create
-
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
-
-
-## What you will learn
-
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+## App Icon:  
+![](https://user-images.githubusercontent.com/23642847/113556161-bc698680-9604-11eb-87b8-3031b2c7df7e.png)
 
